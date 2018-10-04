@@ -139,7 +139,7 @@
     "7zip": "0.0.6",
     "appium-fake-driver": "^0.6.2",
     "asar": "^0.14.0",
-    "asyncbox": "^2.3.2",
+    "asyncbox": "^2.5.1",
     "babel-core": "6.x",
     "babel-eslint": "^10.0.1",
     "babel-loader": "^6.4.1",
